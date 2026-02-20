@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BUILDING_PHANTA_THEATRE_DIONYSUS_NAME" Language="ko_KR">
+			<Text>디오니소스 극장</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PHANTA_THEATRE_DIONYSUS_DESCRIPTION" Language="ko_KR">
+			<Text>극장가는 재배지로부터 상당한 [ICON_Culture] 문화 인접 보너스를 받으며, 불가사의(디오니소스 극장 포함)에 인접할 경우 [ICON_Amenities] 쾌적도 +2를 제공합니다. 극장가 특수지구와 재배지 옆에 지어야 합니다.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PHANTA_THEATRE_DIONYSUS_QUOTE" Language="ko_KR">
+			<Text>“그러니 풍요로운 포도송이의 신 디오니소스여, 당신을 찬미하나이다! 우리가 다시금 기쁨 속에 이 계절을 맞이하게 하시고, 이것이 되풀이되어 오랜 기간 이어지게 하소서.”[NEWLINE]– 호메로스 찬가</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_PHANTA_THEATRE_DIONYSUS_CHAPTER_HISTORY_PARA_1" Language="ko_KR">
+			<Text>디오니소스 극장은 아크로폴리스 기슭에 지어진 대규모 야외극장입니다. 포도주의 신 디오니소스에게 봉헌된 이 극장은 아이스킬로스, 소포클레스, 에우리피데스, 아리스토파네스, 메난드로스 등 고대 그리스 극작가들의 공연이 열린 장소였습니다. 처음에는 연극 상연을 위한 공터에 불과했으나 역대 아테네 통치자들의 후원 아래 석조 극장으로 확장되었고, 특히 (스파르타의 리쿠르고스가 아닌) 아테네의 리쿠르고스가 최대 25,000명을 수용할 수 있도록 확장하였습니다. 이후 로마 지배기에 들어서면서 점차 사용되지 않게 되었습니다.</Text>
+		</Row>
+		<Row Tag="LOC_PHANTA_THEATRE_DIONYSUS_THEATER_PLANTATION_CULTURE" Language="ko_KR">
+			<Text>인접한 재배지에서 [ICON_Culture] 문화 +{1_num}.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
